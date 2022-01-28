@@ -4,7 +4,7 @@
 - 🔭 **I’m currently working on ...:**
 
   My name's Makley, and I'm a junior software developer.
-I'm curently working at [Dinabox](https://www.dinabox.net/), a company that provides carpentry automation solutions.
+I'm curently working at [SBSistemas](https://www.sbsistemas.com.br/), a company that provides carpentry automation solutions.
 
 ---
 
