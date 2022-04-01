@@ -1,25 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Makley 👋
 ---
 
 - 🔭 **I’m currently working on ...:**
 
-  My name's Makley, and I'm a junior software developer.
-I'm curently working at [SBSistemas](https://www.sbsistemas.com.br/), a company that provides carpentry automation solutions.
+I'm working as Front-end web developer.
+I'm curently working at [SBSistemas](https://www.sbsistemas.com.br/).
 
 ---
+
+- 🚀 **What i know...:**
+  *  [ReactJS](https://reactjs.org/)
+  *  [Typescript](https://www.typescriptlang.org/)
+  *  [Redux](https://redux.js.org/)
+  *  Git flow
+  *  SQL (in general)
+  *  [PHP](https://www.php.net/)
 
 - 🌱 **I’m currently learning ...:**
   At the momento I'm studying:
-  *  [ReactJS](https://reactjs.org/)
-  *  [Typescript](https://www.typescriptlang.org/)
-  *  [NodeJS](https://nodejs.org/)
-  *  [Postgres](https://www.postgresql.org/)
+  * [Golang](https://go.dev/)
+  * [Docker](https://www.docker.com/)
+  * [Python](https://www.python.org/)
+
+
+- 🤔 **What i want to learn ...:**
+  Tecnologies that i'm currious about, or i pretend to learn:
+  * [Flutter](https://flutter.dev/)
+  * [Rust](https://www.rust-lang.org/)
+  * CI/CD
+  * AI
 
 ---
 
-- 😄 **Pronouns ...:**
-
-  *(he/him/his)*
+- 😄 **Pronouns:** *(he/him)*
 
 
 
