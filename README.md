@@ -17,14 +17,12 @@ I'm curently working at [SBSistemas](https://www.sbsistemas.com.br/).
   *  [PHP](https://www.php.net/)
 
 - 🌱 **I’m currently learning ...:**
-  At the momento I'm studying:
   * [Golang](https://go.dev/)
   * [Docker](https://www.docker.com/)
   * [Python](https://www.python.org/)
 
 
 - 🤔 **What i want to learn ...:**
-  Tecnologies that i'm currious about, or i pretend to learn:
   * [Flutter](https://flutter.dev/)
   * [Rust](https://www.rust-lang.org/)
   * CI/CD
