@@ -12,21 +12,23 @@ I'm curently working at [SBSistemas](https://www.sbsistemas.com.br/).
   *  [ReactJS](https://reactjs.org/)
   *  [Typescript](https://www.typescriptlang.org/)
   *  [Redux](https://redux.js.org/)
+  *  [NextJS](https://nextjs.org/)
   *  Git flow
-  *  SQL (in general)
+  *  SQL (basics)
   *  [PHP](https://www.php.net/)
 
 - 🌱 **I’m currently learning ...:**
-  * [Golang](https://go.dev/)
   * [Docker](https://www.docker.com/)
   * [Python](https://www.python.org/)
 
 
 - 🤔 **What i want to learn ...:**
-  * [Flutter](https://flutter.dev/)
   * [Rust](https://www.rust-lang.org/)
-  * CI/CD
+  * R
   * AI
+  * Data Science
+  * Machine Learning
+  * Deep Learning
 
 ---
 
