@@ -1,53 +1,40 @@
-### Hi there, I'm Makley 👋
----
+### Hi there, I'm Makley Tibola Trichez 👋
 
-- 🔭 **I’m currently working on ...:**
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/makley__/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makley-tibola-trichez/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-373737?style=flat&logo=gmail&logoColor=white)](tibolamakley1@gmail.com)
 
-I'm working as Front-end web developer.
-I'm curently working at [SBSistemas](https://www.sbsistemas.com.br/).
+<img width="350" align="right" src='https://github-readme-stats.vercel.app/api?username=Makley-Tibola-Trichez&show_icons=true&theme=react'/>
 
----
+<img width="350" align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Makley-Tibola-Trichez&langs_count=6&theme=react'/>
 
-- 🚀 **What i know...:**
-  *  [ReactJS](https://reactjs.org/)
-  *  [Typescript](https://www.typescriptlang.org/)
-  *  [Redux](https://redux.js.org/)
-  *  [NextJS](https://nextjs.org/)
-  *  Git flow
-  *  SQL (basics)
-  *  [PHP](https://www.php.net/)
+**Knowledges**
 
-- 🌱 **I’m currently learning ...:**
-  * [Docker](https://www.docker.com/)
-  * [Python](https://www.python.org/)
+<!-- ### Certificates -->
 
+<!-- ### Skills -->
 
-- 🤔 **What i want to learn ...:**
-  * [Rust](https://www.rust-lang.org/)
-  * R
-  * AI
-  * Data Science
-  * Machine Learning
-  * Deep Learning
+## Front end
 
----
+<img src = './react.png' width='40'/>
+<img src = './react-native.png' width='40'/>
+<img src = './redux.png' width='40'/>
+<img src = './nextjs.png' width='40'/>
+<img src = './javascript.png' width='40'/>
+<img src = './html.png' width='37' />
+<img src = './css3.png' width='44'/>
 
-- 😄 **Pronouns:** *(he/him)*
+## Back-end
 
+<img src = './php.png' width='40'/>
+<img src = './java.png' width='40' />
+<img src = './python.png' width='40' />
+<img src = './javascript.png' width='40' />
 
+## Test
 
-<!--
-**Makley-Tibola-Trichez/Makley-Tibola-Trichez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = './jest.png' width='40'/>
 
-Here are some ideas to get you started:
+## Databases
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<img src = './mysql.png' width='44'/>
