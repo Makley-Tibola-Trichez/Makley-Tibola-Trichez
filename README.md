@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makley</h1>
 
-<div style="display: flex; justify-content: space-between">
-  <div style="padding-right: 0.5rem">
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <div style="padding-right: 1rem">
 
 - 🔭 I’m currently working on Front-end development at [Agronota](https://agronota.com.br/)
 
