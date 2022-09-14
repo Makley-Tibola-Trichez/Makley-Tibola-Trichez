@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Makley</h1>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between">
-  <div style="padding-right: 1rem">
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+  <td valign="top" style="border: 0;">
 
 - 🔭 I’m currently working on Front-end development at [Agronota](https://agronota.com.br/)
 
@@ -15,18 +16,18 @@
   [![Hackerrank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tibolamakley1)
   [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/makley__)
 
-  </div>
+  </td>
 
-  <div >
+  <td valign="top" style="border: 0;">
     <p>
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=makley-tibola-trichez&show_icons=true&locale=en&layout=compact" alt="makley-tibola-trichez" />
     </p>
     <p>
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=makley-tibola-trichez&show_icons=true&locale=en" alt="makley-tibola-trichez" />
     </p>
-  </div>
-
-</div>
+  </td>
+  </tr>
+</table>
 
 <br />
 
