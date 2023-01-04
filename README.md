@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on Front-end development at [Agronota](https://agronota.com.br/)
 
-- 🌱 I’m currently learning Data analytics **Python, R**
+- 🌱 I’m currently learning Back-end and improving Front-end knowledge **Typescript, NestJS**
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Typescript**
 
 - 📫 How to reach me **tibolamakley1@gmail.com**
 
-  [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makley-tibola-trichez)
+  [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/makley-)
   [![Hackerrank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tibolamakley1)
   [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/makley__)
 
