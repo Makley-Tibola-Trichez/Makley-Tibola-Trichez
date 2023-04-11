@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Makley</h1>
 
-<style>
+<!--<style>
 
   .container {
     display: grid;
@@ -16,7 +16,7 @@
   }
   }
 
-</style>
+</style>-->
 
 
 <div class='container'>
