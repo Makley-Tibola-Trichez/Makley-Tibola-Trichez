@@ -132,7 +132,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Makley-Tibola-Trichez/Makley-Tibola-Trichez/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Makley-Tibola-Trichez/Makley-Tibola-Trichez/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
